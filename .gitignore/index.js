@@ -4,4 +4,4 @@ bot.on("ready", function()  {
  bot.user.setGame("HELLO")
     console.log("LE");
 });
-bot.login("Var.Embed.enter");
+bot.login("var.embed.enter");
